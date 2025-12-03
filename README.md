@@ -1,21 +1,97 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 User Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-19.2.0-blue?logo=react) 
+![Vite](https://img.shields.io/badge/Vite-7.2.4-orange?logo=vite) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-purple?logo=bootstrap) 
+![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Currently, two official plugins are available:
+A **modern React + Vite web application** to manage user accounts. Users can **register, login, view, and edit their accounts**. Styled with **Bootstrap 5** and fully deployable on **GitHub Pages**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Check the live version here:  
+[User Management App](https://HemantSharma08.github.io/User-Management-App)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# User-Management-App
-A simple React user management system with registration, login, view profile, and edit profile functionality using Bootstrap and React Router.
->>>>>>> 53abc194e3a27a64fcbd69849bf6364c6218d7a3
+## 📸 Screenshots
+
+> Add your screenshots in a `screenshots/` folder in the repo.
+
+**Home Page**  
+<img width="1824" height="607" alt="Screenshot 2025-12-03 203032" src="https://github.com/user-attachments/assets/61a81ce7-572a-48cc-bc93-6f606254cdd5" />
+
+
+**Add User Page**  
+<img width="1782" height="469" alt="Screenshot 2025-12-03 204008" src="https://github.com/user-attachments/assets/59464204-d4aa-4643-9725-139bb4aafd23" />
+
+
+**Edit User Page**  
+<img width="1733" height="622" alt="Screenshot 2025-12-03 204038" src="https://github.com/user-attachments/assets/28d260fa-cba9-4761-a05b-67a6dcf20788" />
+<img width="1751" height="656" alt="Screenshot 2025-12-03 204028" src="https://github.com/user-attachments/assets/361a4399-3b63-47b1-bd49-6658f89f485a" />
+
+
+**Login Page**  
+<img width="1824" height="607" alt="Screenshot 2025-12-03 203032" src="https://github.com/user-attachments/assets/be495f31-aff7-4f0a-8d99-573418bf16a1" />
+
+**Registration Page**  
+---
+<img width="1738" height="721" alt="Screenshot 2025-12-03 203040" src="https://github.com/user-attachments/assets/7ffdaa39-a8f6-4da2-8965-96c4f3fdfa91" />
+
+## 📝 Project Overview
+
+This app allows users to:
+
+- Create and manage accounts  
+- Register a new account  
+- Login to existing accounts  
+- View and edit account information  
+
+> Focus is on **functionality and clean, maintainable code** rather than complex styling.
+
+---
+
+## 🚀 Features
+
+- **Login Page:** Authenticate users securely  
+- **Registration Page:** Create new user accounts  
+- **Account Management:** View and edit profile information  
+- **Responsive Design:** Uses **Bootstrap 5**  
+- **Routing:** React Router DOM for multiple pages  
+- **Error Handling:** Graceful handling of invalid input or errors  
+- **Modular Code:** Clean folder structure and reusable components  
+
+---
+
+## 💻 Technologies Used
+
+| Technology | Logo |
+|------------|------|
+| React | ![React](https://img.shields.io/badge/React-19.2.0-blue?logo=react) |
+| Vite | ![Vite](https://img.shields.io/badge/Vite-7.2.4-orange?logo=vite) |
+| Bootstrap | ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.8-purple?logo=bootstrap) |
+| React Router DOM | ![React Router](https://img.shields.io/badge/React_Router-7.10.0-red?logo=react-router) |
+| Git & GitHub | ![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github) |
+| gh-pages | ![GitHub Pages](https://img.shields.io/badge/GH-Pages-blueviolet?logo=github) |
+
+---
+
+## ⚡ Getting Started
+
+
+### 1. Clone the repository
+
+git clone https://github.com/HemantSharma08/User-Management-App.git
+cd User-Management-App
+
+
+📁 Project Structure
+<img width="251" height="482" alt="Screenshot 2025-12-03 210110" src="https://github.com/user-attachments/assets/8e7c9035-a236-43a1-8bc0-bdebe988d738" />
+
+
+👍 Author
+
+Hemant Sharma
