@@ -13,7 +13,7 @@ A **modern React + Vite web application** to manage user accounts. Users can **r
 ## 🌐 Live Demo
 
 Check the live version here:  
-[User Management App](https://HemantSharma08.github.io/User-Management-App)
+[User Management App](https://hemantsharma08.github.io/User-Management-App/)
 
 ---
 
